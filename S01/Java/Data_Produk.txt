@@ -1,0 +1,4 @@
+BRG01	cocacola	10	10000
+BRG02	pepsodent	8	5000
+BRG01	susu-ultra	2	7000
+BRG04	Kopi	3	1000
